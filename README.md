@@ -1,4 +1,4 @@
-![mountain](https://user-images.githubusercontent.com/98724087/153711811-afd12829-b8fb-4381-9eda-c83d2bcbc79f.png)<br><br>
+![mountain](https://user-images.githubusercontent.com/98724087/153739235-15d3b8c8-321e-493e-b7f8-0ed0c1ff3c8a.png)<br><br>
 
 <h1 align="center">Hi 👋, I'm Emino Kobayashi</h1>
 <h3 align="center">An IOS frontend developer who loves creating</h3>
