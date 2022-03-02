@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Swift (mainly frontend)**
 
-- 👩‍💻 All of my projects are available at [repositories](https://github.com/emi5884?tab=repositories) ( all of them have demo video on their README )
+- 👩‍💻 All of my projects are available at [repositories](https://github.com/emi5884?tab=repositories) ( all of them have demo video in their README )
 
 - 📫 How to reach me **eminokobayashi@gmail.com**
 
