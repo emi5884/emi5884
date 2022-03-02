@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **eminokobayashi@gmail.com**
 
-- 📄 Know about my experiences [resume](https://emi5884.github.io/Portfolio/)
+- 📄 Know about my experiences [resume](https://emi5884.github.io/Portfolio-Website/)
 
 - ❤ I love nature, dogs, creating, researching, journey, cafe, book, movie etc...
 <br><br>
