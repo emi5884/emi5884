@@ -1,7 +1,7 @@
 ![mountain](https://user-images.githubusercontent.com/98724087/153739235-15d3b8c8-321e-493e-b7f8-0ed0c1ff3c8a.png)<br><br>
 
 <h1 align="center">Hi 👋, I'm Emino Kobayashi</h1>
-<h3 align="center">An IOS frontend developer who loves creating</h3>
+<h3 align="center">An iOS frontend developer who loves creating</h3>
 <br><br>
 
 - 💬 Ask me about **Swift (mainly frontend)**
