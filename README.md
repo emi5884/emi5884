@@ -6,13 +6,13 @@
 
 - 💬 Ask me about **Swift (mainly frontend)**
 
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/emi5884?tab=repositories)
+- 👩‍💻 All of my projects are available at [repositories](https://github.com/emi5884?tab=repositories)
 
 - 📫 How to reach me **eminokobayashi@gmail.com**
 
 - 📄 Know about my experiences [resume](https://emi5884.github.io/Portfolio-Website/)
 
-- ❤ I love nature, dogs, creating, researching, journey, cafe, book, movie etc...
+- ❤ I love nature, dogs, creating, researching, travel, cafe, book etc...
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
