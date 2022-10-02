@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [resume](https://emi5884.github.io/Portfolio-Website/)
 
-- ❤ I love nature, dogs, creating, researching, travel, cafe, book etc...
+- ❤ I love creating, traveling, reading, cafe, nature, dogs etc...
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
