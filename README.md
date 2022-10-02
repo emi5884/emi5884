@@ -4,7 +4,7 @@
 <h3 align="center">An iOS developer who loves creating</h3>
 <br><br>
 
-- 💬 Ask me about **Swift (mainly frontend)**
+- 💬 Ask me about **Swift**
 
 - 👩‍💻 All of my projects are available at [repositories](https://github.com/emi5884?tab=repositories) ( all of them have demo video in their README )
 
